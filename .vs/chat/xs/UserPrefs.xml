@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Desktop/mockup/index.js">
+    <Files>
+      <File FileName="../../Desktop/mockup/index.html" Line="14" Column="8" />
+      <File FileName="../../Desktop/mockup/style.css" Line="11" Column="2" />
+      <File FileName="../../Desktop/mockup/index.js" Line="16" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
