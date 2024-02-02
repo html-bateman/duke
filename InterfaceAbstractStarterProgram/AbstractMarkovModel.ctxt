@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=AbstractMarkovModel
+comment1.params=
+comment1.target=AbstractMarkovModel()
+comment2.params=key
+comment2.target=java.util.ArrayList\ getFollows(java.lang.String)
+numComments=3

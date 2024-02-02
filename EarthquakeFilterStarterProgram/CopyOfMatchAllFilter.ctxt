@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CopyOfMatchAllFilter
+comment1.params=
+comment1.target=CopyOfMatchAllFilter()
+comment2.params=filter
+comment2.target=void\ addFilter(CopyOfFilter)
+comment3.params=qe
+comment3.target=boolean\ satisfies(QuakeEntry)
+numComments=4

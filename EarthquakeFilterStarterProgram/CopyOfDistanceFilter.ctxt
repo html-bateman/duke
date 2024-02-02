@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CopyOfDistanceFilter
+comment1.params=loc\ maxDist
+comment1.target=CopyOfDistanceFilter(Location,\ double)
+comment2.params=qe
+comment2.target=boolean\ satisfies(QuakeEntry)
+numComments=3

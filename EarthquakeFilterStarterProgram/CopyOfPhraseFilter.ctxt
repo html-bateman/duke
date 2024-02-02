@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CopyOfPhraseFilter
+comment1.params=where\ word
+comment1.target=CopyOfPhraseFilter(java.lang.String,\ java.lang.String)
+comment2.params=qe
+comment2.target=boolean\ satisfies(QuakeEntry)
+numComments=3

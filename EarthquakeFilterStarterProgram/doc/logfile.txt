@@ -1,0 +1,38 @@
+Class documentation
+<---- javadoc command: ---->
+javadoc
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+17
+-classpath
+/Applications/BlueJ.app/Contents/Java/bluejcore.jar:/Applications/BlueJ.app/Contents/Java/javafx-base-20.0.1.jar:/Applications/BlueJ.app/Contents/Java/javafx-graphics-20.0.1.jar:/Applications/BlueJ.app/Contents/Java/javafx-controls-20.0.1.jar:/Applications/BlueJ.app/Contents/Java/javafx-fxml-20.0.1-mac.jar:/Applications/BlueJ.app/Contents/Java/javafx-controls-20.0.1-mac.jar:/Applications/BlueJ.app/Contents/Java/javafx-web-20.0.1-mac.jar:/Applications/BlueJ.app/Contents/Java/javafx-media-20.0.1.jar:/Applications/BlueJ.app/Contents/Java/javafx-base-20.0.1-mac.jar:/Applications/BlueJ.app/Contents/Java/javafx-media-20.0.1-mac.jar:/Applications/BlueJ.app/Contents/Java/javafx-graphics-20.0.1-mac.jar:/Applications/BlueJ.app/Contents/Java/javafx-swing-20.0.1-mac.jar:/Applications/BlueJ.app/Contents/Java/junit-4.12.jar:/Applications/BlueJ.app/Contents/Java/junit-jupiter-params-5.5.2.jar:/Applications/BlueJ.app/Contents/Java/junit-jupiter-api-5.5.2.jar:/Applications/BlueJ.app/Contents/Java/junit-jupiter-engine-5.5.2.jar:/Applications/BlueJ.app/Contents/Java/junit-platform-suite-api-1.5.2.jar:/Applications/BlueJ.app/Contents/Java/junit-vintage-engine-5.5.2.jar:/Applications/BlueJ.app/Contents/Java/junit-jupiter-5.5.2.jar:/Applications/BlueJ.app/Contents/Java/junit-platform-engine-1.5.2.jar:/Applications/BlueJ.app/Contents/Java/junit-platform-launcher-1.5.2.jar:/Applications/BlueJ.app/Contents/Java/junit-platform-commons-1.5.2.jar:/Applications/BlueJ.app/Contents/Java/hamcrest-core-1.3.jar:/Applications/BlueJ.app/Contents/Java/opentest4j-1.2.0.jar:/Applications/BlueJ.app/Contents/Java/lang-stride.jar:/Applications/BlueJ.app/Contents/Java/userlib/courserajava.jar:/Applications/BlueJ.app/Contents/Java/userlib/apache-csv.jar:/Users/skew/Desktop/duke/EarthquakeFilterStarterProgram
+-d
+/Users/skew/Desktop/duke/EarthquakeFilterStarterProgram/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+/Users/skew/Desktop/duke/EarthquakeFilterStarterProgram/QuakeEntry.java
+<---- end of javadoc command ---->
+Loading source file /Users/skew/Desktop/duke/EarthquakeFilterStarterProgram/QuakeEntry.java...
+/Users/skew/Desktop/duke/EarthquakeFilterStarterProgram/QuakeEntry.java:53: error: class expected
+        double./**
+               ^
+/Users/skew/Desktop/duke/EarthquakeFilterStarterProgram/QuakeEntry.java:59: error: illegal start of expression
+        public int sampleMethod(int y)
+        ^
+/Users/skew/Desktop/duke/EarthquakeFilterStarterProgram/QuakeEntry.java:66: error: class, interface, enum, or record expected
+public String toString(){
+       ^
+/Users/skew/Desktop/duke/EarthquakeFilterStarterProgram/QuakeEntry.java:68: error: class, interface, enum, or record expected
+}
+^
+4 errors
